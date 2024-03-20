@@ -28,6 +28,7 @@ Each subfolder is dedicated to a specific programming language. The code samples
 ## License:
 
 This repository is licensed under the MIT License, which allows for free use and modification of the code. See [[link to MIT License explanation](https://opensource.org/license/mit)] for more details.
+
 ![MIT License](https://img.shields.io/badge/License-MIT-yellow.svg)
 
 ## Contributions:
